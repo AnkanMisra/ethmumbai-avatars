@@ -21,7 +21,7 @@ This system is designed to take a user-uploaded selfie and generate a stylized a
 
 ## Documentation
 
-- [Master Plan](./docs/plan.md)
+- [Master Plan](plan.md)
 - [Architecture](./docs/architecture.md)
 - [Pipeline Breakdown](./docs/pipeline.md)
 - [Training Guide](./docs/lora-training.md)
